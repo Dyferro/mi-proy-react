@@ -1,0 +1,14 @@
+.encabezado{
+  background-image: url('../../../public/images/photo-background.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 6px;
+}
